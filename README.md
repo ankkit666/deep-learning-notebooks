@@ -14,7 +14,7 @@ This repository documents my deep learning practice journey as I transition from
 
 ## Topics Covered
 
-### 1. Types of Neural Networks
+### 1. Types of Neural Networks(Neural Architecture Primer)
 - Artificial Neural Networks (ANN)
 - Convolutional Neural Networks (CNN)
 - Recurrent Neural Networks (RNN / LSTM / GRU)
